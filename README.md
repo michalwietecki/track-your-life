@@ -2,9 +2,9 @@
 
 Our project's purpose is to track your daily metrics, such as sleep and steps and our laziness.
 
-The data displayed in the app was collected by us from beggining of december until 24.01.2024. The data was: our step count, minutes spend on a social media platform and the times we got up and went back to sleep. This data is exemplary, to show how the dashboard works.
+The data displayed in the app was collected by us from beginning of december until 24.01.2024. The data was: our step count, minutes spend on a social media platform and the times we got up and went back to sleep. This data is exemplary, to show how the dashboard works.
 
-The data was displayes in the shiny application, on 3 different pages about 3 different topics.
+The data was displayes in the shiny application programmed in R, on 3 different pages about 3 different topics.
 
 We also gave the opportunity for the user to taylor the data analysis they want to see, so the user can decide what they want to know about our lives.
 
