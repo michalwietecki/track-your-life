@@ -1,15 +1,15 @@
-## Nasz projekt
+## Track your life
 
-Nasz projekt dotyczy tego jak spędzamy dzień. To znaczy: kiedy wstajemy, kiedy się budzimy, jak aktywni jesteśmy oraz jak leniwi.
+Our project's purpose is to track your daily metrics, such as sleep and steps and our laziness.
 
-Nasze dane to zbierane ręcznie przez nas dane od początku grudnia az do 24.01.2024. Te dane to: liczba kroków, liczba minut spędzonych na instagramie, czas wstania i czas położenia się.
+The data displayed in the app was collected by us from beggining of december until 24.01.2024. The data was: our step count, minutes spend on a social media platform and the times we got up and went back to sleep. This data is exemplary, to show how the dashboard works.
 
-Dane te przedstawiliśmy w aplikacji shiny na 3 stronach dotyczących poszczególnych tematów.
+The data was displayes in the shiny application, on 3 different pages about 3 different topics.
 
-Pozostawiliśmy również pewną swobodę w analizie danych przez samego użytkownika, aby to on mógł zdecydować co chce o nas wiedziec.
+We also gave the opportunity for the user to taylor the data analysis they want to see, so the user can decide what they want to know about our lives.
 
-![](images/image-1832600798.png)
+![image-1832600798](https://github.com/user-attachments/assets/b76153fa-8c3b-4f06-be31-06576f53c6ab)
 
-![](images/image-16319100.png)
+![image-16319100](https://github.com/user-attachments/assets/9b92154c-05f9-45c0-bb61-842e23d37a41)
 
-![](images/417946122_2060885470938053_6982844956942591322_n.png)
+![417946122_2060885470938053_6982844956942591322_n](https://github.com/user-attachments/assets/b83e574c-3997-4188-87ac-b85f2748bb3b)
